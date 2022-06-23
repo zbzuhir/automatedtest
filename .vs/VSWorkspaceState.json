@@ -2,8 +2,12 @@
   "ExpandedNodes": [
     "",
     "\\.github",
-    "\\.github\\workflows"
+    "\\.github\\workflows",
+    "\\Python",
+    "\\Python\\Python310",
+    "\\src",
+    "\\src\\sources"
   ],
-  "SelectedNode": "\\Driver.py",
+  "SelectedNode": "\\src\\sources\\chromedriver.exe",
   "PreviewInSolutionExplorer": false
 }
