@@ -7,9 +7,6 @@ from selenium.webdriver.common.alert import Alert
 
 global driver
 #driver = webdriver.Chrome('/Users/nurkhairunnisa.alies/Serunai/VH Smart/Automation/chromedriver/chromedriver')
-s = Service(executable_path='/Users/Asus/Downloads/Folder/chromedriver')
+s = Service('/Users/Asus/Downloads/Folder/chromedriver')
 driver = webdriver.Chrome(service=s)
 driver.maximize_window()
-
-
-
