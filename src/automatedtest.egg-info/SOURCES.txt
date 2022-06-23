@@ -1,0 +1,11 @@
+README.md
+setup.cfg
+setup.py
+src/automatedtest.egg-info/PKG-INFO
+src/automatedtest.egg-info/SOURCES.txt
+src/automatedtest.egg-info/dependency_links.txt
+src/automatedtest.egg-info/not-zip-safe
+src/automatedtest.egg-info/requires.txt
+src/automatedtest.egg-info/top_level.txt
+src/sources/Driver.py
+src/sources/Selenium.py
